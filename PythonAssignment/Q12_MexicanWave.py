@@ -1,4 +1,4 @@
-"""Given a string, find the mexican wave"""
+"""Given a string,find the mexican wave"""
 
 input_string=str(input())
 mexican_wave=[]
